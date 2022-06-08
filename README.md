@@ -24,7 +24,14 @@ Challenges
 - Maitriser l’architecture Unet
 - Appliquer le Transfer Learning en utilisant la bibliothèque segmentation-models.
 
-Phases de brief
+## Ressource(s)
+
+- [Bibliothèque](https://pypi.org/project/segmentation-models/0.1.2/)
+- [Bibliothèque](https://github.com/qubvel/segmentation_models)
+- [Data](https://drive.google.com/file/d/1TVQ5a-IOdn95eAAT8QLVA45s8WBAW1re/view?usp=sharing)
+- [Exemple](https://github.com/MEABECHAR/Deep-learning-vs.-Superpixel-classification-for-breast-masses-segmentation/blob/master/CNN_segmentation.py)
+
+## Phases de brief
 
 ### Partie 1 : Base de données
 

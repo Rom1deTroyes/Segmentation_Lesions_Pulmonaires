@@ -53,17 +53,17 @@ Le projet est réalisé individuellement.
 
 ## Critères de performance
 
-– [ ] Un code python bien structuré, avec les commentaires nécessaires.
-– [ ] Le choix de l’architecture du modèle.
-– [ ] Évaluation des performances du modèle.
+- [ ] Un code python bien structuré, avec les commentaires nécessaires.
+- [ ] Le choix de l’architecture du modèle.
+- [ ] Évaluation des performances du modèle.
 
 
 ## Modalités d'évaluation
 
-– [ ] Un rapport sur le projet réalisé qui explique les différentes étapes du code.
-– [ ] Description des données (dans le rapport).
-– [ ] Présentation de l'architecture utilisée (dans le rapport).
-– [ ] Revue de code avec le formateur.
+- [ ] Un rapport sur le projet réalisé qui explique les différentes étapes du code.
+- [ ] Description des données (dans le rapport).
+- [ ] Présentation de l'architecture utilisée (dans le rapport).
+- [ ] Revue de code avec le formateur.
 
 
 ## Livrables
